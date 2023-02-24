@@ -1,0 +1,13 @@
+$size-Mobile: 375px;
+$size-Desktop: 1440px;
+
+$fnt-Weights-500: 500;
+$fnt-Weights-700: 700;
+$fnt-Weights-800: 800;
+
+//$font-Hanken: url(https://fonts.google.com/specimen/Hanken+Grotesk) ;
+
+@font-face {
+  font-family: Hanken-Grotesk;
+  src: url("../assets/fonts/HankenGrotesk-VariableFont_wght.ttf");
+} ;
